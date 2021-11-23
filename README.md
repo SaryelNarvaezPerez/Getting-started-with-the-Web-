@@ -4,3 +4,4 @@ Actividad de fundamentos de algoritmia
 ## Saryel Narvaez Perez Estudiante 
 ## Luis Ángel Díaz Nisperuza Estudiante 
 ## Jose Luis Mercado Ibarra
+## María Alma López Mestra
